@@ -16,15 +16,38 @@ function newTask(lista) {
   console.log(nuevaTarea)
 }
 
-// function list(){
+function list(){
 
+}
+
+
+function erase(){
+
+}
+
+function quit(){
+
+}
+
+
+
+// Ejercicio ultima clase Js-I Censa
+
+
+// let lista = []
+
+// let numero = parseInt(prompt("introduce el numero de imagenes que quieres"))
+
+// for(let i = 0; i < numero; i++){
+//   let mensaje = `Introduce el enlace numero ${i+1}`
+//   lista.push(prompt(mensaje))
 // }
 
 
-// function erase(){
+// let padre = document.getElementById("container")
 
-// }
-
-// function quit(){
-
+// for(let enlace of lista){
+//   let imagen = document.createElement("img")
+//   imagen.src = enlace
+//   padre.appendChild(imagen)
 // }
